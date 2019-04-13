@@ -1,0 +1,15 @@
+{
+  "name": "riz-starter-default",
+  "version": "1.0.0",
+  "description": "Default starter for the Riz static site generator.",
+  "repository": "https://github.com/nedpals/riz-starter-default",
+  "author": "Ned Palacios",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "mithril": "^1.1.6",
+    "@nedpals/riz": "^0.1.0"
+  }
+}
